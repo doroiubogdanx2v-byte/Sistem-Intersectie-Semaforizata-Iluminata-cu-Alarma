@@ -74,11 +74,11 @@ int main(void) {
 
             if (GPIO_Read(ButonPieton0) == GPIO_HIGH && starebuton0 == 0) {
                 starebuton0 = 1;
-                waittime = waittime - 1000;
+                waittime = waittime - 8000;
             }
             if (GPIO_Read(ButonPieton1) == GPIO_HIGH && starebuton1 == 0) {
                 starebuton1 = 1;
-                waittime = waittime - 1000;
+                waittime = waittime - 3000;
             }
         }
         
