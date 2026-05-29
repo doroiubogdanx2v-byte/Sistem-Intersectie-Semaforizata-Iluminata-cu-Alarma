@@ -18,7 +18,7 @@
 #define LDR_CHANNEL 2 
 
 
-#define PRAG_INTUNERIC 200
+#define PRAG_INTUNERIC 350
 
 void ActualizeazaIluminat() {
     
