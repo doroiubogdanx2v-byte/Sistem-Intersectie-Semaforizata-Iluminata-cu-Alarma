@@ -17,6 +17,23 @@ Proiectul este realizat în scop educațional și demonstrează concepte de:
 
 ---
 
+## 🔌 Configurație pini Arduino
+
+| Componentă                     | Pin Arduino |
+| ------------------------------ | ----------- |
+| LED Galben (Semafor Mașini)    | D12         |
+| LED Roșu (Semafor Mașini)      | A4          |
+| LED Albastru (Semafor Mașini)  | D3          |
+| LED Albastru (Semafor Pietoni) | A5          |
+| LED Roșu (Semafor Pietoni)     | D5          |
+| LED Lumină 1                   | D8          |
+| LED Lumină 2                   | D7          |
+| Buzzer                         | D6          |
+| Buton Pieton (8 secunde)       | A0          |
+| Buton Pieton (3 secunde)       | A1          |
+
+---
+
 ## ⚙️ Funcționalități
 
 - 🚥 Control automat al semafoarelor
